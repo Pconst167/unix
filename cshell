@@ -1,0 +1,3 @@
+foreach dummyvar ($var2)		- foreach loop. dummyvar loops through each item inside $var2 and is used inside the loop
+	<cmds>
+end
